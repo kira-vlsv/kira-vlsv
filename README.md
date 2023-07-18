@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kira :wave:</h1> 
 <h3 align="center">QA Automation Engineer since 2019</h3>
 
-<h3>Technologies I Have Experience With</h3>
+<h2>Technologies I Have Experience With</h2>
 <p  align="center">
   <img width="5%" title="Java IDEA" src="images/java-logo.png">
   <img width="5%" title="Gradle" src="images/gradle-logo.png">
