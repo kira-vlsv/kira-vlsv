@@ -3,7 +3,10 @@
 
 <h3>Technologies I Have Experience With</h3>
 
-![Java](images/java-logo.png "Java") 
+<figure>
+  <img src="images/java-logo.png" alt="Java">
+  <figcaption>Java</figcaption>
+</figure>
 
 
 Here are some ideas to get you started:
