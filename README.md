@@ -3,7 +3,7 @@
 
 <h3>Technologies I Have Experience With</h3>
 
-
+| ------------- | ------------- | ------------- | ------------- |
 | Java  | <img width="5%" title="Java" src="images/java-logo.svg"> | Allure Report  | <img width="5%" title="Allure Report" src="images/allure-Report-logo.svg">  |
 | Gradle  | <img width="5%" title="Gradle" src="images/gradle-logo.svg "> | Gitgub  | <img width="5%" title="Github" src="images/git-logo.svg"> |
 | TestNG  | <img width="5%" title="TestNG" src="images/testng-logo.png"> | Bitbucket  | <img width="5%" title="Bitbucket" src="images/bitbucket-logo.png"> |
