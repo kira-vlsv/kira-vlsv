@@ -3,7 +3,7 @@
 
 <h3>Technologies I Have Experience With</h3>
 
-![Java](images/java-logo.svg "Java") 
+![Java](images/java-logo.png "Java") 
 
 
 Here are some ideas to get you started:
