@@ -4,7 +4,7 @@
 <h3>Technologies I Have Experience With</h3>
 
 | | | | | | |
-| --- | --- | --- | --- | --- | --- |
+| --- | :---: | --- | :---: | --- | :---: |
 | Java  | <img width="30%" title="Java" src="images/java-logo.svg"> | Selenium  | <img width="20%" title="Selenium" src="images/selenium-logo.png">|Allure Report|<img width="70%" title="Allure Report" src="images/allure-Report-logo.svg">|
 | Gradle  | <img width="30%" title="Gradle" src="images/gradle-logo.svg "> | Selenide  | <img width="20%" title="Selenide" src="images/selenide-logo.svg">|Docker|<img width="70%" title="Docker" src="images/docker-logo.png">|
 | TestNG  | <img width="30%" title="TestNG" src="images/testng-logo.png"> | Bitbucket  | <img width="20%" title="Bitbucket" src="images/bitbucket-logo.png">|Jenkins|<img width="70%" title="Jenkins" src="images/jenkins-logo.svg">|
