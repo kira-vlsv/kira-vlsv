@@ -9,7 +9,7 @@
 | Gradle  | <img width="25%" title="Gradle" src="images/gradle-logo.svg "> | Selenide  | <img width="25%" title="Selenide" src="images/selenide-logo.svg">  |  Docker  | <img width="25%" title="Docker" src="images/docker-logo.png">  |
 | TestNG  | <img width="25%" title="TestNG" src="images/testng-logo.png"> | Bitbucket  | <img width="25%" title="Bitbucket" src="images/bitbucket-logo.png"> | Jenkins  | <img width="25%" title="Jenkins" src="images/jenkins-logo.svg"> |
 | JUnit5  | <img width="25%" title="JUnit5" src="images/junit5-logo.svg"> | Github  | <img width="25%" title="Github" src="images/git-logo.svg"> | Selenoid  | <img width="25%" title="Selenoid" src="images/selenoid-logo.svg"> |
-| REST-Assured  | <img width="25%" title="REST-Assured" src="images/rest-assured-logo.svg"> | Jira  | <img width="25%" title="Jira" src="images/jira-logo.svg">  | Postman  | <img width="25%" title="Postman" src="images/postman-logo.svg"> |
+| REST-Assured  | <img width="25%" title="REST-Assured" src="images/rest-assured-logo.svg"> | Jira  | <img width="25%" title="Jira" src="images/jira-logo.svg">  | Postman  | <img width="25%" title="Postman" src="images/postman-logo.png"> |
 
 
 Here are some ideas to get you started:
