@@ -5,7 +5,7 @@
 
 | | | | |
 | ------------- | ------------- | ------------- | ------------- |
-| Java  | <img width="70%" title="Java" src="images/java-logo.svg"> | Allure Report  | <img width="70%" title="Allure Report" src="images/allure-Report-logo.svg">  |
+| Java  | <img width="40%" title="Java" src="images/java-logo.svg"> | Allure Report  | <img width="70%" title="Allure Report" src="images/allure-Report-logo.svg">  |
 | Gradle  | <img width="70%" title="Gradle" src="images/gradle-logo.svg "> | Gitgub  | <img width="70%" title="Github" src="images/git-logo.svg"> |
 | TestNG  | <img width="70%" title="TestNG" src="images/testng-logo.png"> | Bitbucket  | <img width="70%" title="Bitbucket" src="images/bitbucket-logo.png"> |
 | JUnit5  | <img width="70%" title="JUnit5" src="images/junit5-logo.svg"> | Jenkins  | <img width="70%" title="Jenkins" src="images/jenkins-logo.svg"> |
