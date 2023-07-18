@@ -3,9 +3,9 @@
 
 <h3>Technologies I Have Experience With</h3>
 
-<figure>
-  <img src="images/java-logo.png" alt="Java">
-  <figcaption>Java</figcaption>
+<figure style="text-align: center;">
+  <img src="images/java-logo.png" alt="Java" style="width: 300px; border-radius: 50%;">
+  <figcaption style="font-style: italic; margin-top: 10px;">Java</figcaption>
 </figure>
 
 
