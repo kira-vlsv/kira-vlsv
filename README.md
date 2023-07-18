@@ -3,13 +3,7 @@
 
 <h3>Technologies I Have Experience With</h3>
 
-| | | | | | |
-| --- | :---: | --- | :---: | --- | :---: |
-| Java  | <img width="30%" title="Java" src="images/java-logo.svg"> | Selenium  | <img width="20%" title="Selenium" src="images/selenium-logo.png">|Allure Report|<img width="70%" title="Allure Report" src="images/allure-Report-logo.svg">|
-| Gradle  | <img width="30%" title="Gradle" src="images/gradle-logo.svg "> | Selenide  | <img width="20%" title="Selenide" src="images/selenide-logo.svg">|Docker|<img width="70%" title="Docker" src="images/docker-logo.png">|
-| TestNG  | <img width="30%" title="TestNG" src="images/testng-logo.png"> | Bitbucket  | <img width="20%" title="Bitbucket" src="images/bitbucket-logo.png">|Jenkins|<img width="70%" title="Jenkins" src="images/jenkins-logo.svg">|
-| JUnit5  | <img width="30%" title="JUnit5" src="images/junit5-logo.svg"> | Github  | <img width="20%" title="Github" src="images/git-logo.svg">|Selenoid|<img width="70%" title="Selenoid" src="images/selenoid-logo.svg">|
-| REST-Assured  | <img width="30%" title="REST-Assured" src="images/rest-assured-logo.svg"> | Jira  | <img width="20%" title="Jira" src="images/jira-logo.svg">|Postman|<img width="70%" title="Postman" src="images/postman-logo.png">|
+![Java](images/java-logo.svg "Java") 
 
 
 Here are some ideas to get you started:
