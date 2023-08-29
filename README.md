@@ -26,7 +26,7 @@ Feel free to explore the repositories and contribute if you find anything intere
 
 <h2> :books: Projects </h2>
 
-<h3> 1. Demo Test Automation Project </h3>
+<h3> [1. Demo Test Automation Project](https://github.com/kira-vlsv/trello-demo-project) </h3>
 <p> Ready-made solution for test automation using Trello as an example. The project utilizes <code>Java</code> programming 
 language with testing libraries such as <code>Rest-Assured</code> for API testing and <code>Selenide</code> for UI testing. 
 The tests can be executed either locally or through <code>Jenkins</code>. UI tests are run on <code>Selenoid</code>. After test execution, 
