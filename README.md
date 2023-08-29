@@ -32,6 +32,10 @@ language with testing libraries such as <code>Rest-Assured</code> for API testin
 The tests can be executed either locally or through <code>Jenkins</code>. UI tests are run on <code>Selenoid</code>. After test execution, 
 <code>Allure reports</code> are generated, and notifications are sent to <code>Telegram</code>. </p>
 
+<h3><a href="https://github.com/kira-vlsv/niffler-st2/tree/dev/niffler-e-2-e-tests">2. Niffler WebApp Tests</a></h3>
+<p> This repository showcases my coursework achievements. I've mastered JUnit 5 extensions, diverse DB connections (JDBC, Spring JDBC, Hibernate), add custom Allure templates and Selenide conditions. Also, I've tested gRPC, used Mockito, and Wiremock.
+Explore this repository to witness my progress in testing and development. </p>
+
 <h2> :seedling: Learning Goals </h2>
 
 <p>
